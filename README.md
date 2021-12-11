@@ -33,5 +33,5 @@ Install Vagrant, Oracle  VirtualBox
 
 ## Run application
 1. Clone repo https://github.com/RafalPawlak/spa
-2. run command -> vagrant up
-3. in browser use url: localhost:8001
+2. Run command -> vagrant up
+3. In browser use url: localhost:8001
