@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Instruction
+
+## Prerequisites
+Install Vagrant, Oracle  VirtualBox
+
+## Run application
+1. Clone repo https://github.com/RafalPawlak/spa
+2. Run command -> vagrant up
+3. In browser use url: localhost:8001
